@@ -1,8 +1,8 @@
 {
   "name": "W5500",
-  "apiVersion": "1.1.0",
+  "apiVersion": "1.0.0",
   "author": "Alex Martens",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "W5500 SPI bus decoder",
   "extensions": {
     "W5500": {
