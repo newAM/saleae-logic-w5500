@@ -1,0 +1,13 @@
+{
+  "name": "W5500",
+  "apiVersion": "1.1.0",
+  "author": "Alex Martens",
+  "version": "0.0.1",
+  "description": "W5500 SPI bus decoder",
+  "extensions": {
+    "W5500": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
